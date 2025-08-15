@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning about Express, the course is for full stack.
 - 💞️ I want to collaborate here on GitHub in the future.
 - 📫 My profile contains ways to contact me.
-- 💙 I am a single mother of a 3-year-old child, the Belquior.
+- 💙 I am a single mother of a 3-year-old child, Belquior.
 - ⚡ I haven't thought of any funny facts yet.
 
 <!---
