@@ -4,7 +4,7 @@
 - 💞️ I want to collaborate here on GitHub in the future.
 - 📫 My profile contains ways to contact me.
 - 💙 I am a single mother of Belquior, a beautiful little 4-year-old boy.
-- 😄 I was playing with Belquior, each of us was a little puppet, we had to climb the sofa, which was a mountain, and get to the top to enjoy the view and the moment. When we got to the top, I (my puppet) said, 'Wow, what a high place, "how cold in my belly"!' Then, Belquior stopped for a few seconds, looked at me, thought (silently) and said, 'Wait a minute, I'll go get you a sweater, Mommy!'
+- 😄 I was playing with Belquior, each of us was a little puppet, we had to climb the sofa, which was a mountain, and get to the top to enjoy the view and the moment. When we got to the top, I (my puppet) said, 'Wow, what a high place, "how cold in my belly"!' Then, Belquior stopped for a few seconds, looked at me, thought and said, 'Wait a minute, I'll go get you a sweater, Mommy!'
 
 <!---
 VanessaYuriAB/VanessaYuriAB is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
