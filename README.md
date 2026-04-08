@@ -1,7 +1,7 @@
 # Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif), my name is Vanessa and I'm Web Developer Full Stack!
 
 - 👋 I'm happy to be here. Some years ago, I only think about to be here and now I'm.
-- 🧠 I just finished a Full Stack Web Development bootcamp with Triple Ten Brazil.
+- 🧠 I just finished a Full Stack (MERN) Web Development bootcamp with Triple Ten Brazil.
 - 🌱 Currently, I have 12 projects published here on GitHub.
 - 💞️ I want to collaborate here on GitHub in the future.
 - 📫 My profile contains ways to contact me.
