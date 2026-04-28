@@ -2,7 +2,7 @@
 
 - 👋 I'm happy to be here. Some years ago, I only think about to be here and now I'm.
 - 🧠 I just finished a Full Stack (MERN) Web Development bootcamp with Triple Ten Brazil.
-- 🌱 Currently, I have 19 projects published here on GitHub.
+- 🌱 Currently, I have 20 projects published here on GitHub.
 - 💞️ I want to collaborate here on GitHub in the future.
 - 📫 My profile contains ways to contact me.
 - ✉️ One of them is at
