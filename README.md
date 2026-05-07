@@ -1,6 +1,6 @@
 # Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif), my name is Vanessa and I'm Web Developer Full Stack!
 
-- 👋 I'm happy to be here. Some years ago, I only think about to be here and now I'm.
+- 👋 I'm happy to be here. Some years ago, I only thought about to be here and now I'm.
 - 🧠 I just finished a Full Stack (MERN) Web Development bootcamp with Triple Ten Brazil.
 - 🌱 Currently, I have 20 projects published here on GitHub.
 - 💞️ I want to collaborate here on GitHub in the future.
@@ -14,9 +14,9 @@
   sofa, which was a mountain, and get to the top to enjoy the view and the moment. When we
   got to the top, I (my puppet) said, 'Wow, what a high place, "how cold in my belly"!'
   Then, Belquior stopped for a few seconds, looked at me, thought and said, 'Wait a
-  minute, I'll go get you a sweater, Mommy!'
+  minute, I´m going to get you a sweater, Mommy!'
 
-* 🖥️ See my portfolio at [soon](http://embreve.com)
+* 🖥️ See my portfolio at [[soon].](http://embreve.com)
 
 ---
 
