@@ -1,126 +1,190 @@
-# Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif), my name is Vanessa and I'm Web Developer Full Stack!
+# Oi! Eu sou a Vanessa 👋
 
-- 👋 I'm happy to be here. Some years ago, I only thought about to be here and now I'm.
-- 🧠 I just finished a Full Stack (MERN) Web Development bootcamp with Triple Ten Brazil.
-- 🌱 Currently, I have 20 projects published here on GitHub.
-- 💞️ I want to collaborate here on GitHub in the future.
-- 📫 My profile contains ways to contact me.
-- ✉️ One of them is at
-  [emaildavanessayuri@gmail.com](mailto:emaildavanessayuri@gmail.com).
-- 🌍 I'm based in São Paulo.
-- 🚀 I'm currently looking for a good job.
-- 🩵 I am a single mother of Belquior, a beautiful little 4-year-old boy.
-- 😄 I was playing with Belquior, each of us was a little puppet, we had to climb the
-  sofa, which was a mountain, and get to the top to enjoy the view and the moment. When we
-  got to the top, I (my puppet) said, 'Wow, what a high place, "how cold in my belly"!'
-  Then, Belquior stopped for a few seconds, looked at me, thought and said, 'Wait a
-  minute, I´m going to get you a sweater, Mommy!'
+Sou **Desenvolvedora Web Full Stack (MERN) Júnior**, com experiência prática, construindo
+aplicações web de ponta a ponta — do HTML semântico ao deploy de aplicações com
+autenticação JWT e API REST. Minha trajetória na tecnologia começou com uma decisão de
+mudança de vida, e desde então venho construindo projetos reais, documentando meu
+aprendizado e consolidando uma base técnica sólida com foco em código limpo, organização e
+evolução contínua.
 
-* 🖥️ See my portfolio at [[soon].](http://embreve.com)
+📍 São Paulo, Brasil · 🌐 Aberta a oportunidades (remoto/híbrido)  
+📩 emaildavanessayuri@gmail.com  
+🔗 LinkedIn: https://www.linkedin.com/in/vanessa-yuri-a-brito  
+🧾 Currículo: https://www.kickresume.com/cv/vanessa-y-a-brito
 
 ---
 
-### My Skill Set
+## 💡 Minha história (em 30 segundos)
 
-<div>
-<h4>Frontend</h4>
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank" rel="noreferrer"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" title="HTML5" height="36" /></a>  
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" title="CSS3" height="36" /></a>  
-<a href="http://getbem.com/" target="_blank" rel="noreferrer"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bem.svg" alt="BEM" title="BEM" height="36" /></a>  
-<a href="https://www.javascript.com/" target="_blank" rel="noreferrer"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" title="JavaScript" height="36" /></a>  
-<a href="https://nodejs.org/" target="_blank" rel="noreferrer"><img style="margin: 10px" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" alt="Node.js" title="Node.js" height="36" /></a>  
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img style="margin: 10px" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" alt="React" title="React" height="36" /></a>  
-<a href="https://vitejs.dev/" target="_blank" rel="noreferrer"><img style="margin: 10px" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" alt="Vite" title="Vite" height="36" /></a>
-<a href="https://webpack.js.org/" target="_blank" rel="noreferrer"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/webpack-original.svg" alt="Webpack" title="Webpack" height="36" /></a> 
-<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img style="margin: 10px" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" alt="VS Code" title="VS Code" height="36" /></a> 
-<a href="https://github.com/" target="_blank" rel="noreferrer"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" title="Git" height="36" /></a>  
-<a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Bash_Logo_Colored.svg/960px-Bash_Logo_Colored.svg.png" alt="Bash" title="Bash" height="36" /></a>  
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" title="Figma" height="36" /></a>
-</div>
+Eu não vim de um bacharelado — eu vim de uma decisão.
 
-<div>
-<h4>Backend</h4>
-<a href="https://www.javascript.com/" target="_blank" rel="noreferrer"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" title="JavaScript" height="36" /></a>  
-<a href="https://nodejs.org/" target="_blank" rel="noreferrer"><img style="margin: 10px" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" alt="Node.js" title="Node.js" height="36" /></a>  
-<a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img style="margin: 10px" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored-dark.svg" alt="Express.js" title="Express.js" height="36" /></a>
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img style="margin: 10px" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" alt="MongoDB" title="MongoDB" height="36" /></a>  
-<a href="https://www.jestjs.io/" target="_blank" rel="noreferrer"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jest.svg" alt="Jest" title="Jest" height="36" /></a>  
-<a href="https://www.nginx.com/" target="_blank" rel="noreferrer"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nginx-original.svg" alt="Nginx" title="Nginx" height="36" /></a>  
-<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img style="margin: 10px" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" alt="VS Code" title="VS Code" height="36" /></a> 
-<a href="https://github.com/" target="_blank" rel="noreferrer"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" title="Git" height="36" /></a>  
-<a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Bash_Logo_Colored.svg/960px-Bash_Logo_Colored.svg.png" alt="Bash" title="Bash" height="36" /></a>
-</div>
+No final de 2024, escolhi redirecionar minha vida e me dedicar de forma séria ao
+desenvolvimento web. Desde então, mergulhei em uma formação intensiva baseada em projetos
+(bootcamp na TripleTen), construindo aplicações reais continuamente, do frontend ao
+backend, e fortalecendo uma base sólida em HTML, CSS, JavaScript, React, Node.js, Express
+e MongoDB - buscando entender não só “como funciona”, mas **por que funciona**.
 
-<div>
-<h4>DevOps</h4>
-<a href="https://vercel.com/" target="_blank" rel="noreferrer"><img style="margin: 10px" src="https://assets.vercel.com/image/upload/front/vercel/twitter-card.png" alt="Vercel" title="Vercel" height="36" /></a>  
-<a href="https://cloud.google.com/" target="_blank" rel="noreferrer"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/google_cloud-icon.svg" alt="GCP" title="GCP" height="36" /></a>  
-<a href="https://github.com/" target="_blank" rel="noreferrer"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" title="Git" height="36" /></a>  
-<a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Bash_Logo_Colored.svg/960px-Bash_Logo_Colored.svg.png" alt="Bash" title="Bash" height="36" /></a>  
-</div>
+Aprendi construindo, quebrando, refatorando e evoluindo cada projeto — aprimorando boas
+práticas, organização e clareza de código.
 
-</div>
+Também sou mãe solteira do Belquior, e essa experiência me tornou ainda mais resiliente,
+organizada e consciente da importância de construir com propósito. Durante esse período,
+permaneci 100% focada nos estudos e na conclusão do curso, transformando disciplina,
+curiosidade e constância em progresso técnico real.
+
+Meu aprendizado é prático e iterativo: entender o problema, planejar, construir, testar,
+refatorar e documentar. Gosto de estudar de forma ativa, experimentar soluções e registrar
+meu processo.
+
+Evoluí construindo projetos reais, passando por cada etapa: **estrutura →**
+**interatividade → arquitetura → integração → deploy**.
 
 ---
 
-### Socials
+## 🚀 Projetos em destaque
 
-<div align="left">
+Abaixo estão os projetos que melhor representam minha evolução técnica e capacidade de
+construir aplicações completas:
 
-<a href="https://www.linkedin.com/in/vanessa-yuri-a-brito" target="_blank" rel="noreferrer"> 
-<picture style="margin: 20px"> 
-<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> 
-<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> 
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="20" height="20" alt="LinkedIn" title="LinkedIn" /> 
-</picture> 
-</a>
-<a href="https://www.github.com/VanessaYuriAB" target="_blank" rel="noreferrer"> 
-<picture style="margin: 20px">
-<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" />
-<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" />
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="20" height="20" alt="GitHub" title="GitHub" />
-</picture> 
-</a>
-<a href="https://www.x.com/vanessayuriab" target="_blank" rel="noreferrer"> 
-<picture style="margin: 20px">
-<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" />
-<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" />
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="20" height="20" alt="Twitter" title="Twitter" />
-</picture> 
-</a>
-<a href="https://www.threads.net/@vanessayuriab" target="_blank" rel="noreferrer">
-<picture style="margin: 20px">
-<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/threads-dark.svg" />
-<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/threads.svg" />
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/threads.svg" width="20" height="20" alt="Threads" title="Threads" />
-</picture> 
-</a>
-<a href="https://www.codepen.io/Vanessa-Yuri-A-Brito" target="_blank" rel="noreferrer">
-<picture style="margin: 20px">
-<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codepen-dark.svg" />
-<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codepen.svg" />
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codepen.svg" width="20" height="20" alt="CodePen" title="CodePen" />
-</picture> 
-</a>
-<a href="https://www.facebook.com/vanessayuri.alvesdebrito" target="_blank" rel="noreferrer">
-<picture style="margin: 20px">
-<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook-dark.svg" />
-<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" />
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="20" height="20" alt="Facebook" title="Facebook" />
-</picture> 
-</a>
+### 🌐 Full Stack
 
-</div>
+- 🔹 **News Explorer (Projeto final)**  
+  Pesquisa de notícias (API externa) com login, JWT e artigos salvos em perfil
+  autenticado.
+
+  → Frontend (React): https://github.com/VanessaYuriAB/news-explorer-frontend  
+  → Backend (Node/Express): https://github.com/VanessaYuriAB/news-explorer-backend
+
+- 🔹 **Around U.S. Full Stack**  
+   Aplicação com React + Node + JWT. Integra frontend e backend com API REST protegida,
+  tratamento de erros e deploy em cloud.
+
+  → https://github.com/VanessaYuriAB/web_project_api_full
 
 ---
 
-### My GitHub Stats
+### ⚛️ Frontend + Arquitetura
 
-<a href="http://www.github.com/VanessaYuriAB">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=VanessaYuriAB&stroke=ffffff&background=1c1917&ring=ffffff&fire=ffffff&currStreakNum=ffffff&currStreakLabel=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
-</a>
+- 🔹 **Around U.S. (React)**  
+  SPA com React + Vite, Hooks, Context API e integração completa com API REST.
 
-<!---
-VanessaYuriAB/VanessaYuriAB is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+  → https://github.com/VanessaYuriAB/web_project_around_react
+
+---
+
+### 🔧 Backend
+
+- 🔹 **Around U.S. API (Express)**  
+  Backend com Node.js, Express e MongoDB. API RESTful com regras de negócio, persistência
+  e autenticação (CRUD usuários/cartões).
+
+  → https://github.com/VanessaYuriAB/web_project_around_express
+
+---
+
+### 🔐 Auth (JWT)
+
+- 🔹 **Around U.S. Auth**  
+  React + JWT com autenticação, controle de sessão e proteção de rotas.
+
+  → https://github.com/VanessaYuriAB/web_project_around_auth
+
+---
+
+### 🗺️ JavaScript (Vanilla)
+
+- 🔹 **Around U.S.**  
+  Aplicação interativa com CRUD e integração com API REST.
+
+  → https://github.com/VanessaYuriAB/web_project_around
+
+---
+
+## 🧱 Fundamentos (arquitetura e boas práticas)
+
+Repositórios focados em fundamentos fazem parte da minha base de evolução e complementam
+os projetos principais:
+
+- HTML semântico + layout container pattern
+- CSS modular com BEM (Flat)
+- Organização de código, reusabilidade e versionamento
+
+---
+
+## 🧭 Como eu trabalho
+
+- HTML semântico como padrão
+- CSS modular e escalável (BEM)
+- JavaScript com responsabilidades claras
+- Separação de camadas (frontend e backend)
+- Código organizado, legível e documentado
+
+---
+
+## 🧰 Tech Stack
+
+**Frontend**: HTML5 · CSS3 (Responsive) · BEM Flat · JavaScript (ES6+) · React · Vite
+
+**Backend**: Node.js · Express.js · MongoDB · JWT · Jest/Supertest
+
+**Ferramentas**: Git/GitHub · VS Code · Figma · Bash
+
+**Deploy**: Vercel · Google Cloud (GCP) · Nginx (conceitos e uso)
+
+---
+
+## 🤝 Como eu posso contribuir em um time
+
+- Construção de SPAs com React + design responsivo
+- Integração frontend ↔ backend via APIs REST
+- Autenticação/autorização com JWT
+- Organização de código, documentação e melhoria incremental (refatoração consciente)
+
+---
+
+## 🧠 Atualmente estudando
+
+- Arquitetura de layout (container pattern)
+- Reutilização de código (boilerplate)
+- Boas práticas de front-end
+
+---
+
+## 📚 Minha evolução
+
+1. Fundamentos Web → ✅ HTML, CSS e responsividade
+2. JavaScript → ✅ DOM, eventos, POO e integração com APIs
+3. Frontend moderno → ✅ React, SPA, gerenciamento de estado
+4. Backend → ✅ Node.js, Express, APIs REST e autenticação JWT
+5. Full Stack → ✅ integração completa, MongoDB e deploy em cloud
+6. Arquitetura → ✅ organização de código e padrões (layout patterns)
+7. Reutilização → em prática (boilerplates e padrões)
+8. Próximo → TypeScript e banco relacional
+
+---
+
+## 📌 Agora (próximos passos)
+
+- Estudar TypeScript
+- Aprender banco de dados SQL (SQLite ou PostGreSQL)
+- Desenvolver novo projeto full stack com essas tecnologias
+- Consolidar boilerplates (backend e full stack)
+- Buscar minha primeira oportunidade como Júnior Full Stack (MERN)
+
+---
+
+## 🌍 English (short)
+
+Hi! I'm **Vanessa** — a Junior **Full Stack (MERN)** Web Developer.  
+I learned by building real projects end-to-end: semantic HTML/CSS, JavaScript, React
+(Vite), Node/Express, MongoDB, JWT auth, tests, and cloud deployment.
+
+📩 emaildavanessayuri@gmail.com · 🔗 https://www.linkedin.com/in/vanessa-yuri-a-brito · 🧾
+https://www.kickresume.com/cv/vanessa-y-a-brito-en
+
+---
+
+## 🎯 Objetivo
+
+Construir interfaces bem estruturadas, acessíveis e escaláveis - unindo design, código e
+experiência do usuário para transformar ideias em produtos reais.
