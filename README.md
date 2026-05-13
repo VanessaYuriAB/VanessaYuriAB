@@ -8,7 +8,7 @@ aprendizado e consolidando uma base técnica sólida com foco em código limpo, 
 evolução contínua.
 
 📍 São Paulo, Brasil · 🌐 Aberta a oportunidades (remoto/híbrido)  
-📩 emaildavanessayuri@gmail.com  
+📩 Contato: emaildavanessayuri@gmail.com  
 🔗 LinkedIn: https://www.linkedin.com/in/vanessa-yuri-a-brito  
 🧾 Currículo: https://www.kickresume.com/cv/vanessa-y-a-brito
 
@@ -179,8 +179,7 @@ Hi! I'm **Vanessa** — a Junior **Full Stack (MERN)** Web Developer.
 I learned by building real projects end-to-end: semantic HTML/CSS, JavaScript, React
 (Vite), Node/Express, MongoDB, JWT auth, tests, and cloud deployment.
 
-📩 emaildavanessayuri@gmail.com · 🔗 https://www.linkedin.com/in/vanessa-yuri-a-brito · 🧾
-https://www.kickresume.com/cv/vanessa-y-a-brito-en
+📩 emaildavanessayuri@gmail.com · 🔗 https://www.linkedin.com/in/vanessa-yuri-a-brito · 🧾 https://www.kickresume.com/cv/vanessa-y-a-brito-en
 
 ---
 
