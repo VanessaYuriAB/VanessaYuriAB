@@ -166,7 +166,7 @@ os projetos principais:
 ## 📌 Agora (próximos passos)
 
 - Estudar TypeScript
-- Aprender banco de dados SQL (SQLite ou PostGreSQL)
+- Aprender PostGreSQL
 - Desenvolver novo projeto full stack com essas tecnologias
 - Consolidar boilerplates (backend e full stack)
 - Buscar minha primeira oportunidade como Júnior Full Stack (MERN)
