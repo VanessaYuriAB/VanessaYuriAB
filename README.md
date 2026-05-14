@@ -185,5 +185,4 @@ I learned by building real projects end-to-end: semantic HTML/CSS, JavaScript, R
 
 ## 🎯 Objetivo
 
-Construir interfaces bem estruturadas, acessíveis e escaláveis - unindo design, código e
-experiência do usuário para transformar ideias em produtos reais.
+Construir interfaces bem estruturadas, acessíveis e escaláveis - unindo design, código e experiência do usuário, conectando front-end e back-end para transformar ideias em produtos reais.
