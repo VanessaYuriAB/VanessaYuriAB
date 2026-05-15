@@ -16,8 +16,6 @@ evolução contínua.
 
 ## 💡 Minha história (em 30 segundos)
 
-Eu não vim de um bacharelado — eu vim de uma decisão.
-
 No final de 2024, escolhi redirecionar minha vida e me dedicar de forma séria ao
 desenvolvimento web. Desde então, mergulhei em uma formação intensiva baseada em projetos
 (bootcamp na TripleTen), construindo aplicações reais continuamente, do frontend ao
