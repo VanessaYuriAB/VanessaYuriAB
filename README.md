@@ -194,7 +194,11 @@ Hi! I'm **Vanessa** — a Junior **Full Stack (MERN)** Web Developer.
 I learned by building real projects end-to-end: semantic HTML/CSS, JavaScript, React
 (Vite), Node/Express, MongoDB, JWT auth, tests, and cloud deployment.
 
-📩 emaildavanessayuri@gmail.com · 🔗 https://www.linkedin.com/in/vanessa-yuri-a-brito · 🧾 https://www.kickresume.com/cv/vanessa-y-a-brito-en
+📩 emaildavanessayuri@gmail.com
+
+🔗 https://www.linkedin.com/in/vanessa-yuri-a-brito
+
+🧾 https://www.kickresume.com/cv/vanessa-y-a-brito-en
 
 ---
 
