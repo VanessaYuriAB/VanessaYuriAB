@@ -45,13 +45,14 @@ construir aplicações completas:
 
 - 🔹**O que é que tem? Na sopa, creme ou patê**
 
-  Neste projeto estou evoluindo conceitos de arquitetura e organização de aplicações, 
+  Este é um projeto autoral. Nele, estou evoluindo conceitos de arquitetura e organização de aplicações, 
   aplicando abordagens diferentes das utilizadas em projetos anteriores:
 
     - Arquitetura Feature-Based (leve)
     - Gerenciamento de estado global com Zustand
     - Implementação de autenticação JWT via Cookies
-    - Desenvolvimento Full Stack focado em escalabilidade e manutenibilidade
+    - Validação de componentes com PropTypes
+    - Organização focada em escalabilidade e manutenibilidade
 
   Experiências anteriores:
 
@@ -158,6 +159,7 @@ _modular com BEM (Flat), Organização de código, reusabilidade e versionamento
 - Feature-Based Architecture (leve)
 - Gerenciamento de estado global com Zustand
 - Implementação de autenticação JWT via cookies
+- Aplicação de boas práticas com PropTypes
 
 ---
 
@@ -172,7 +174,7 @@ _modular com BEM (Flat), Organização de código, reusabilidade e versionamento
 8. Reutilização → em prática (Boilerplates e padronização de projetos)
 9. Desenvolvimento Profissional → em prática (Programa de Aceleração de Carreira)
 10. Projeto Atual → em prática (Construção de MVP Full Stack para portfólio)
-11. Evolução Atual → em prática (Feature-Based Architecture (leve), Zustand e JWT via Cookies)
+11. Evolução Atual → em prática (Feature-Based Architecture (leve), Zustand, JWT via Cookies e boa prática de tipagem/validação com PropTypes)
 12. Próximo → Tailwind CSS / TypeScript / PostGreSQL
 
 ---
