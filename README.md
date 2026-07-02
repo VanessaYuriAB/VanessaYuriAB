@@ -44,6 +44,7 @@ construir aplicações completas:
 ### 🚀 Projeto Atual (MVP Full Stack)
 
 - 🔹**O que é que tem? Na sopa, creme ou patê**
+
   Neste projeto estou evoluindo conceitos de arquitetura e organização de aplicações, 
   aplicando abordagens diferentes das utilizadas em projetos anteriores:
 
@@ -63,6 +64,7 @@ construir aplicações completas:
 ### 🌐 Full Stack
 
 - 🔹 **News Explorer (Projeto final)**  
+
   Pesquisa de notícias (API externa) com login, JWT e artigos salvos em perfil
   autenticado.
 
@@ -70,7 +72,8 @@ construir aplicações completas:
   → Backend (Node/Express): https://github.com/VanessaYuriAB/news-explorer-backend
 
 - 🔹 **Around U.S. Full Stack**  
-   Aplicação com React + Node + JWT. Integra frontend e backend com API REST protegida,
+
+  Aplicação com React + Node + JWT. Integra frontend e backend com API REST protegida,
   tratamento de erros e deploy em cloud.
 
   → https://github.com/VanessaYuriAB/web_project_api_full
@@ -78,6 +81,7 @@ construir aplicações completas:
 ### ⚛️ Frontend + Arquitetura
 
 - 🔹 **Around U.S. (React)**  
+
   SPA com React + Vite, Hooks, Context API e integração completa com API REST.
 
   → https://github.com/VanessaYuriAB/web_project_around_react
@@ -85,6 +89,7 @@ construir aplicações completas:
 ### 🔧 Backend
 
 - 🔹 **Around U.S. API (Express)**  
+
   Backend com Node.js, Express e MongoDB. API RESTful com regras de negócio, persistência
   e autenticação (CRUD usuários/cartões).
 
@@ -93,6 +98,7 @@ construir aplicações completas:
 ### 🔐 Auth (JWT)
 
 - 🔹 **Around U.S. Auth**  
+
   React + JWT com autenticação, controle de sessão e proteção de rotas.
 
   → https://github.com/VanessaYuriAB/web_project_around_auth
@@ -100,20 +106,14 @@ construir aplicações completas:
 ### 🗺️ JavaScript (Vanilla)
 
 - 🔹 **Around U.S.**  
+
   Aplicação interativa com CRUD e integração com API REST.
 
   → https://github.com/VanessaYuriAB/web_project_around
 
-_🧱 OBS:_ 
-
-_Fundamentos (arquitetura e boas práticas)_
-
-_Repositórios focados em fundamentos fazem parte da minha base de evolução e_ 
-_complementam os projetos principais._
-
-_- HTML semântico_
-_- CSS modular com BEM (Flat)_
-_- Organização de código, reusabilidade e versionamento_
+_OBS: repositórios focados em fundamentos (arquitetura e boas práticas) fazem parte da_
+_minha base de evolução e complementam os projetos principais, como: HTML semântico, CSS_ 
+_modular com BEM (Flat), Organização de código, reusabilidade e versionamento._
 
 ---
 
