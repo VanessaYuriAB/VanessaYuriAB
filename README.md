@@ -16,26 +16,23 @@ evolução contínua.
 
 ## 💡 Minha história (em 30 segundos)
 
-No final de 2024, escolhi redirecionar minha vida e me dedicar de forma séria ao
-desenvolvimento web. Desde então, mergulhei em uma formação intensiva baseada em projetos
-(bootcamp na TripleTen), construindo aplicações reais continuamente, do frontend ao
-backend, e fortalecendo uma base sólida em HTML, CSS, JavaScript, React, Node.js, Express
-e MongoDB - buscando entender não só “como funciona”, mas **por que funciona**.
+No final de 2024, decidi redirecionar minha vida e me dedicar de forma séria ao
+desenvolvimento web. 
 
-Aprendi construindo, quebrando, refatorando e evoluindo cada projeto — aprimorando boas
-práticas, organização e clareza de código.
+Desde então, mergulhei em uma formação intensiva baseada em projetos (bootcamp na 
+TripleTen), construindo aplicações reais continuamente, do frontend ao backend, e 
+fortalecendo uma base sólida em HTML, CSS, JavaScript, React, Node.js, Express e 
+MongoDB. Aprendi construindo, refatorando e evoluindo a cada projeto — aprimorando 
+boas práticas, organização e clareza de código.
 
 Também sou mãe solteira do Belquior, e essa experiência me tornou ainda mais resiliente,
-organizada e consciente da importância de construir com propósito. Durante esse período,
-permaneci 100% focada nos estudos e na conclusão do curso, transformando disciplina,
-curiosidade e constância em progresso técnico real.
+organizada, focada e consciente. 
 
-Meu aprendizado é prático e iterativo: entender o problema, planejar, construir, testar,
-refatorar e documentar. Gosto de estudar de forma ativa, experimentar soluções e registrar
-meu processo.
+Durante esse período, até hoje, permaneci exclusivamente focada nos estudos e na conclusão 
+do curso, resultando no meu progresso técnico. Evoluí construindo projetos reais, passando 
+por cada etapa: estrutura → interatividade → arquitetura → integração → deploy.
 
-Evoluí construindo projetos reais, passando por cada etapa: **estrutura →**
-**interatividade → arquitetura → integração → deploy**.
+Gosto de estudar de forma ativa, experimentar soluções e registrar meu processo.
 
 ---
 
@@ -43,6 +40,25 @@ Evoluí construindo projetos reais, passando por cada etapa: **estrutura →**
 
 Abaixo estão os projetos que melhor representam minha evolução técnica e capacidade de
 construir aplicações completas:
+
+### 🚀 Projeto Atual (MVP Full Stack)
+
+- 🔹**O que é que tem? Na sopa, creme ou patê**
+  Neste projeto estou evoluindo conceitos de arquitetura e organização de aplicações, 
+  aplicando abordagens diferentes das utilizadas em projetos anteriores:
+
+    - Arquitetura Feature-Based (leve)
+    - Gerenciamento de estado global com Zustand
+    - Implementação de autenticação JWT via Cookies
+    - Desenvolvimento Full Stack focado em escalabilidade e manutenibilidade
+
+  Experiências anteriores:
+
+    - Arquitetura Component-Based
+    - Gerenciamento de estado com Context API
+    - Autenticação JWT utilizando LocalStorage
+
+   → https://github.com/VanessaYuriAB/o-que-e-que-tem-frontend
 
 ### 🌐 Full Stack
 
@@ -59,16 +75,12 @@ construir aplicações completas:
 
   → https://github.com/VanessaYuriAB/web_project_api_full
 
----
-
 ### ⚛️ Frontend + Arquitetura
 
 - 🔹 **Around U.S. (React)**  
   SPA com React + Vite, Hooks, Context API e integração completa com API REST.
 
   → https://github.com/VanessaYuriAB/web_project_around_react
-
----
 
 ### 🔧 Backend
 
@@ -78,16 +90,12 @@ construir aplicações completas:
 
   → https://github.com/VanessaYuriAB/web_project_around_express
 
----
-
 ### 🔐 Auth (JWT)
 
 - 🔹 **Around U.S. Auth**  
   React + JWT com autenticação, controle de sessão e proteção de rotas.
 
   → https://github.com/VanessaYuriAB/web_project_around_auth
-
----
 
 ### 🗺️ JavaScript (Vanilla)
 
@@ -96,25 +104,25 @@ construir aplicações completas:
 
   → https://github.com/VanessaYuriAB/web_project_around
 
+_🧱 OBS:_ 
+
+_Fundamentos (arquitetura e boas práticas)_
+
+_Repositórios focados em fundamentos fazem parte da minha base de evolução e_ 
+_complementam os projetos principais._
+
+_- HTML semântico_
+_- CSS modular com BEM (Flat)_
+_- Organização de código, reusabilidade e versionamento_
+
 ---
 
-## 🧱 Fundamentos (arquitetura e boas práticas)
-
-Repositórios focados em fundamentos fazem parte da minha base de evolução e complementam
-os projetos principais:
-
-- HTML semântico + layout container pattern
-- CSS modular com BEM (Flat)
-- Organização de código, reusabilidade e versionamento
-
----
-
-## 🧭 Como eu trabalho
+## 🧭 Como desenvolvo
 
 - HTML semântico como padrão
 - CSS modular e escalável (BEM)
 - JavaScript com responsabilidades claras
-- Separação de camadas (frontend e backend)
+- Separação de camadas
 - Código organizado, legível e documentado
 
 ---
@@ -131,20 +139,25 @@ os projetos principais:
 
 ---
 
-## 🤝 Como eu posso contribuir em um time
+## 🤝 Como posso contribuir em um time
 
-- Construção de SPAs com React + design responsivo
+- Construção de SPAs com React com design responsivo
 - Integração frontend ↔ backend via APIs REST
 - Autenticação/autorização com JWT
 - Organização de código, documentação e melhoria incremental (refatoração consciente)
 
 ---
 
-## 🧠 Atualmente estudando
+## 🧠 Atualmente em desenvolvimento
 
 - Arquitetura de layout (container pattern)
 - Reutilização de código (boilerplate)
 - Boas práticas de front-end
+- Programa de Aceleração de Carreira 
+- Desenvolvimento de MVP Full Stack para portfólio
+- Feature-Based Architecture (leve)
+- Gerenciamento de estado global com Zustand
+- Implementação de autenticação JWT via cookies
 
 ---
 
@@ -155,19 +168,23 @@ os projetos principais:
 3. Frontend moderno → ✅ React, SPA, gerenciamento de estado
 4. Backend → ✅ Node.js, Express, APIs REST e autenticação JWT
 5. Full Stack → ✅ integração completa, MongoDB e deploy em cloud
-6. Arquitetura → ✅ organização de código e padrões (layout patterns)
-7. Reutilização → em prática (boilerplates e padrões)
-8. Próximo → TypeScript e banco relacional
+6. Arquitetura → ✅ Component-Based, Layout Patterns, organização de código e boas práticas
+8. Reutilização → em prática (Boilerplates e padronização de projetos)
+9. Desenvolvimento Profissional → em prática (Programa de Aceleração de Carreira)
+10. Projeto Atual → em prática (Construção de MVP Full Stack para portfólio)
+11. Evolução Atual → em prática (Feature-Based Architecture (leve), Zustand e JWT via Cookies)
+12. Próximo → Tailwind CSS / TypeScript / PostGreSQL
 
 ---
 
-## 📌 Agora (próximos passos)
+## 📌 Foco atual
 
-- Estudar TypeScript
-- Aprender PostGreSQL
-- Desenvolver novo projeto full stack com essas tecnologias
-- Consolidar boilerplates (backend e full stack)
-- Buscar minha primeira oportunidade como Júnior Full Stack (MERN)
+- Concluir o Programa de Aceleração de Carreira
+- Evoluir competências de planejamento e posicionamento profissional
+- Desenvolver e publicar um MVP Full Stack para portfólio
+- Consolidar boas práticas de desenvolvimento e arquitetura
+- Planejar a próxima etapa técnica: Tailwind CSS / TypeScript / PostGreSQL
+- Consolidar boilerplates (front-end, back-end e full-stack)
 
 ---
 
@@ -183,4 +200,5 @@ I learned by building real projects end-to-end: semantic HTML/CSS, JavaScript, R
 
 ## 🎯 Objetivo
 
-Construir interfaces bem estruturadas, acessíveis e escaláveis - unindo design, código e experiência do usuário, conectando front-end e back-end para transformar ideias em produtos reais.
+Construir interfaces responsivas bem estruturadas, acessíveis e escaláveis - unindo design, código 
+e experiência do usuário, conectando front-end e back-end para transformar ideias em produtos reais.
