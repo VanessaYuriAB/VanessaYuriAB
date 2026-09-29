@@ -33,42 +33,40 @@ Hoje sigo evoluindo através da construção de produtos reais, aprofundando con
 Abaixo estão os projetos que melhor representam minha evolução técnica e capacidade de
 construir aplicações completas:
 
-### 🚀 Projeto Atual (MVP Full Stack)
+### 🥣 Projeto Atual (MVP Full Stack)
 
 - 🔹**O que é que tem? Na sopa, creme ou patê**
 
   Projeto autoral construído após a conclusão do Bootcamp de Desenvolvimento Web da TripleTen.
 
-Trata-se de um MVP de uma plataforma digital voltada à redução do desperdício alimentar através da transformação de ingredientes próximos ao vencimento em sopas, cremes e patês.
+  Trata-se de um MVP de uma plataforma digital voltada à redução do desperdício alimentar através da transformação de ingredientes próximos ao vencimento em sopas, cremes e patês.
 
-#### Frontend concluído
+  #### Frontend concluído
 
-Implementações realizadas:
+  Implementações realizadas:
+  - Feature-Based Architecture (abordagem leve)
+  - Component-Based Design
+  - Zustand para gerenciamento de estado global
+  - PropTypes para validação de propriedades
+  - Mock Backend compatível com futura API real
+  - Sistema de autenticação preparado para JWT
+  - Carrinho persistente
+  - Sistema de pedidos
+  - Sistema de assinatura
+  - Rastreamento de pedidos
+  - Acessibilidade e responsividade mobile-first
 
-- Feature-Based Architecture (abordagem leve)
-- Component-Based Design
-- Zustand para gerenciamento de estado global
-- PropTypes para validação de propriedades
-- Mock Backend compatível com futura API real
-- Sistema de autenticação preparado para JWT
-- Carrinho persistente
-- Sistema de pedidos
-- Sistema de assinatura
-- Rastreamento de pedidos
-- Acessibilidade e responsividade mobile-first
+  #### Próxima etapa
 
-#### Próxima etapa
-
-Atualmente iniciando a implementação do backend com:
-
-- Node.js
-- Express
-- MongoDB Atlas
-- JWT com Cookies HttpOnly
-- Integração Frontend ↔ Backend
-- APIs externas
-- Testes automatizados básicos
-- Deploy Full Stack
+  Atualmente iniciando a implementação do backend com:
+  - Node.js
+  - Express
+  - MongoDB Atlas
+  - JWT com Cookies HttpOnly
+  - Integração Frontend ↔ Backend
+  - APIs externas
+  - Testes automatizados básicos
+  - Deploy Full Stack
   
   → Frontend: https://github.com/VanessaYuriAB/o-que-e-que-tem-frontend
 
@@ -148,7 +146,7 @@ _modular com BEM (Flat), Organização de código, reusabilidade e versionamento
 
 **Deploy**: Vercel · Google Cloud (GCP) · Nginx (conceitos e uso)
 
-### Atualmente estudando
+#### Atualmente estudando
 
 Cookies HttpOnly · Arquitetura de APIs · Testes automatizados
 
@@ -190,7 +188,8 @@ Cookies HttpOnly · Arquitetura de APIs · Testes automatizados
 9. Produto autoral → ✅ desenvolvimento de MVP Full Stack próprio
 10. Frontend escalável → ✅ Feature-Based Architecture, PropTypes e desacoplamento de camadas
 11. Etapa atual → 🚧 Backend do MVP, MongoDB, APIs externas e autenticação com Cookies HttpOnly
-12. Próxima evolução → 🚧 Testes automatizados, TypeScript e maior aprofundamento em arquitetura Full Stack
+12. Próxima evolução → 🚧 Testes automatizados e maior aprofundamento em arquitetura Full Stack
+13. Posterior → 🚧 TypeScript, Fundamentos de IA Generativa e ecossistema Google Cloud AI
 
 ---
 
@@ -204,7 +203,6 @@ Cookies HttpOnly · Arquitetura de APIs · Testes automatizados
 - Implementar testes automatizados básicos
 - Consolidar padrões reutilizáveis para futuros projetos
 - Evoluir conhecimentos em arquitetura Full Stack
-- Iniciar estudos práticos de TypeScript
 
 ---
 
