@@ -16,23 +16,15 @@ evolução contínua.
 
 ## 💡 Minha história (em 30 segundos)
 
-No final de 2024, decidi redirecionar minha vida e me dedicar de forma séria ao
-desenvolvimento web. 
+No final de 2024, decidi redirecionar minha vida e me dedicar de forma séria ao desenvolvimento web.
 
-Desde então, mergulhei em uma formação intensiva baseada em projetos (bootcamp na 
-TripleTen), construindo aplicações reais continuamente, do frontend ao backend, e 
-fortalecendo uma base sólida em HTML, CSS, JavaScript, React, Node.js, Express e 
-MongoDB. Aprendi construindo, refatorando e evoluindo a cada projeto — aprimorando 
-boas práticas, organização e clareza de código.
+Desde então, mergulhei em uma formação intensiva baseada em projetos (Bootcamp na TripleTen), construindo aplicações reais continuamente e desenvolvendo uma base sólida em HTML, CSS, JavaScript, React, Node.js, Express e MongoDB.
 
-Também sou mãe solteira do Belquior, e essa experiência me tornou ainda mais resiliente,
-organizada, focada e consciente. 
+Após a formação, iniciei o desenvolvimento de um projeto autoral Full Stack, aplicando conceitos de arquitetura, escalabilidade e organização de código além dos requisitos acadêmicos. Nesse processo, passei a explorar abordagens como Feature-Based Architecture, gerenciamento de estado global com Zustand, autenticação baseada em JWT e planejamento de integrações backend orientadas a APIs REST.
 
-Durante esse período, até hoje, permaneci exclusivamente focada nos estudos e na conclusão 
-do curso, resultando no meu progresso técnico. Evoluí construindo projetos reais, passando 
-por cada etapa: estrutura → interatividade → arquitetura → integração → deploy.
+Também sou mãe do Belquior, experiência que fortaleceu ainda mais minha resiliência, organização, autonomia e capacidade de aprendizado contínuo.
 
-Gosto de estudar de forma ativa, experimentar soluções e registrar meu processo.
+Hoje sigo evoluindo através da construção de produtos reais, aprofundando conhecimentos em backend, integração Frontend ↔ Backend, autenticação com Cookies HttpOnly, testes automatizados, APIs externas e arquitetura de aplicações Full Stack.
 
 ---
 
@@ -45,22 +37,40 @@ construir aplicações completas:
 
 - 🔹**O que é que tem? Na sopa, creme ou patê**
 
-  Este é um projeto autoral. Nele, estou evoluindo conceitos de arquitetura e organização de aplicações, 
-  aplicando abordagens diferentes das utilizadas em projetos anteriores:
+  Projeto autoral construído após a conclusão do Bootcamp de Desenvolvimento Web da TripleTen.
 
-    - Arquitetura Feature-Based (leve)
-    - Gerenciamento de estado global com Zustand
-    - Implementação de autenticação JWT via Cookies
-    - Validação de componentes com PropTypes
-    - Organização focada em escalabilidade e manutenibilidade
+Trata-se de um MVP de uma plataforma digital voltada à redução do desperdício alimentar através da transformação de ingredientes próximos ao vencimento em sopas, cremes e patês.
 
-  Experiências anteriores:
+#### Frontend concluído
 
-    - Arquitetura Component-Based
-    - Gerenciamento de estado com Context API
-    - Autenticação JWT utilizando LocalStorage
+Implementações realizadas:
 
-   → https://github.com/VanessaYuriAB/o-que-e-que-tem-frontend
+- Feature-Based Architecture (abordagem leve)
+- Component-Based Design
+- Zustand para gerenciamento de estado global
+- PropTypes para validação de propriedades
+- Mock Backend compatível com futura API real
+- Sistema de autenticação preparado para JWT
+- Carrinho persistente
+- Sistema de pedidos
+- Sistema de assinatura
+- Rastreamento de pedidos
+- Acessibilidade e responsividade mobile-first
+
+#### Próxima etapa
+
+Atualmente iniciando a implementação do backend com:
+
+- Node.js
+- Express
+- MongoDB Atlas
+- JWT com Cookies HttpOnly
+- Integração Frontend ↔ Backend
+- APIs externas
+- Testes automatizados básicos
+- Deploy Full Stack
+  
+  → Frontend: https://github.com/VanessaYuriAB/o-que-e-que-tem-frontend
 
 ### 🌐 Full Stack
 
@@ -130,13 +140,17 @@ _modular com BEM (Flat), Organização de código, reusabilidade e versionamento
 
 ## 🧰 Tech Stack
 
-**Frontend**: HTML5 · CSS3 (Responsive) · BEM Flat · JavaScript (ES6+) · React · Vite
+**Frontend**: HTML5 · CSS3 (Responsive) · BEM Flat · JavaScript (ES6+) · React · Vite · Zustand · PropTypes (básico)
 
-**Backend**: Node.js · Express.js · MongoDB · JWT · Jest/Supertest
+**Backend**: Node.js · Express.js · MongoDB · JWT · REST APIs · Jest/Supertest
 
-**Ferramentas**: Git/GitHub · VS Code · Figma · Bash
+**Ferramentas**: Git/GitHub · VS Code · Bash · Figma · ESLint · Prettier · Husky · lint-staged
 
 **Deploy**: Vercel · Google Cloud (GCP) · Nginx (conceitos e uso)
+
+### Atualmente estudando
+
+Cookies HttpOnly · Arquitetura de APIs · Testes automatizados
 
 ---
 
@@ -151,15 +165,15 @@ _modular com BEM (Flat), Organização de código, reusabilidade e versionamento
 
 ## 🧠 Atualmente em desenvolvimento
 
-- Arquitetura de layout (container pattern)
-- Reutilização de código (boilerplate)
-- Boas práticas de front-end
-- Programa de Aceleração de Carreira 
-- Desenvolvimento de MVP Full Stack para portfólio
-- Feature-Based Architecture (leve)
-- Gerenciamento de estado global com Zustand
-- Implementação de autenticação JWT via cookies
-- Aplicação de boas práticas com PropTypes
+- Backend do MVP "O que é que tem? Na sopa, creme ou patê"
+- Autenticação JWT via Cookies HttpOnly
+- MongoDB para persistência real
+- Integração com APIs externas
+- Integração Frontend ↔ Backend
+- Testes automatizados básicos (Jest/Supertest)
+- Evolução da arquitetura Feature-Based
+- TypeScript
+- Consolidação de padrões reutilizáveis (boilerplates)
 
 ---
 
@@ -170,23 +184,27 @@ _modular com BEM (Flat), Organização de código, reusabilidade e versionamento
 3. Frontend moderno → ✅ React, SPA, gerenciamento de estado
 4. Backend → ✅ Node.js, Express, APIs REST e autenticação JWT
 5. Full Stack → ✅ integração completa, MongoDB e deploy em cloud
-6. Arquitetura → ✅ Component-Based, Layout Patterns, organização de código e boas práticas
-8. Reutilização → em prática (Boilerplates e padronização de projetos)
-9. Desenvolvimento Profissional → em prática (Programa de Aceleração de Carreira)
-10. Projeto Atual → em prática (Construção de MVP Full Stack para portfólio)
-11. Evolução Atual → em prática (Feature-Based Architecture (leve), Zustand, JWT via Cookies e boa prática de tipagem/validação com PropTypes)
-12. Próximo → Tailwind CSS / TypeScript / PostGreSQL
+6. Arquitetura → ✅ Component-Based, Layout Patterns, organização de código
+7. Boas práticas → ✅ ESLint, Prettier, Husky, lint-staged e padronização
+8. Gerenciamento de estado → ✅ Context API e Zustand
+9. Produto autoral → ✅ desenvolvimento de MVP Full Stack próprio
+10. Frontend escalável → ✅ Feature-Based Architecture, PropTypes e desacoplamento de camadas
+11. Etapa atual → 🚧 Backend do MVP, MongoDB, APIs externas e autenticação com Cookies HttpOnly
+12. Próxima evolução → 🚧 Testes automatizados, TypeScript e maior aprofundamento em arquitetura Full Stack
 
 ---
 
 ## 📌 Foco atual
 
-- Concluir o Programa de Aceleração de Carreira
-- Evoluir competências de planejamento e posicionamento profissional
-- Desenvolver e publicar um MVP Full Stack para portfólio
-- Consolidar boas práticas de desenvolvimento e arquitetura
-- Planejar a próxima etapa técnica: Tailwind CSS / TypeScript / PostGreSQL
-- Consolidar boilerplates (front-end, back-end e full-stack)
+- Desenvolver o backend do MVP "O que é que tem? Na sopa, creme ou patê"
+- Integrar frontend e backend utilizando APIs REST
+- Implementar autenticação JWT com Cookies HttpOnly
+- Estruturar persistência com MongoDB
+- Integrar APIs externas ao produto
+- Implementar testes automatizados básicos
+- Consolidar padrões reutilizáveis para futuros projetos
+- Evoluir conhecimentos em arquitetura Full Stack
+- Iniciar estudos práticos de TypeScript
 
 ---
 
@@ -194,7 +212,7 @@ _modular com BEM (Flat), Organização de código, reusabilidade e versionamento
 
 Hi! I'm **Vanessa** — a Junior **Full Stack (MERN)** Web Developer.  
 I learned by building real projects end-to-end: semantic HTML/CSS, JavaScript, React
-(Vite), Node/Express, MongoDB, JWT auth, tests, and cloud deployment.
+(Vite), Node/Express, MongoDB, JWT auth, tests, and deployment.
 
 📩 emaildavanessayuri@gmail.com
 
