@@ -1,11 +1,6 @@
 # Oi! Eu sou a Vanessa 👋
 
-Sou **Desenvolvedora Web Full Stack (MERN) Júnior**, com experiência prática, construindo
-aplicações web de ponta a ponta — do HTML semântico ao deploy de aplicações com
-autenticação JWT e API REST. Minha trajetória na tecnologia começou com uma decisão de
-mudança de vida, e desde então venho construindo projetos reais, documentando meu
-aprendizado e consolidando uma base técnica sólida com foco em código limpo, organização e
-evolução contínua.
+Sou **Desenvolvedora Web Full Stack (MERN) Júnior**, com experiência prática na construção, implantação e manutenção de aplicações web de ponta a ponta — do HTML semântico ao deploy de aplicações com autenticação JWT e API REST; utilizando React, Node.js, Express, MongoDB e infraestrutura em nuvem. Minha trajetória na tecnologia começou com uma decisão de mudança de vida, e desde então venho construindo projetos reais, documentando meu aprendizado e consolidando uma base técnica sólida com foco em código limpo, organização e evolução contínua.
 
 📍 São Paulo, Brasil · 🌐 Aberta a oportunidades (remoto/híbrido)  
 📩 Contato: emaildavanessayuri@gmail.com  
@@ -30,8 +25,7 @@ Hoje sigo evoluindo através da construção de produtos reais, aprofundando con
 
 ## 🚀 Projetos em destaque
 
-Abaixo estão os projetos que melhor representam minha evolução técnica e capacidade de
-construir aplicações completas:
+Abaixo estão os projetos que melhor representam minha evolução técnica e capacidade de construir aplicações completas:
 
 ### 🥣 Projeto Atual (MVP Full Stack)
 
@@ -46,6 +40,7 @@ construir aplicações completas:
   Implementações realizadas:
   - Feature-Based Architecture (abordagem leve)
   - Component-Based Design
+  - CSS Modules para escopo local de estilos
   - Zustand para gerenciamento de estado global
   - PropTypes para validação de propriedades
   - Mock Backend compatível com futura API real
@@ -74,16 +69,14 @@ construir aplicações completas:
 
 - 🔹 **News Explorer (Projeto final)**  
 
-  Pesquisa de notícias (API externa) com login, JWT e artigos salvos em perfil
-  autenticado.
+  Pesquisa de notícias (API externa) com login, JWT e artigos salvos em perfil autenticado.
 
   → Frontend (React): https://github.com/VanessaYuriAB/news-explorer-frontend  
   → Backend (Node/Express): https://github.com/VanessaYuriAB/news-explorer-backend
 
 - 🔹 **Around U.S. Full Stack**  
 
-  Aplicação com React + Node + JWT. Integra frontend e backend com API REST protegida,
-  tratamento de erros e deploy em cloud.
+  Aplicação com React + Node + JWT. Integra frontend e backend com API REST protegida, tratamento de erros e deploy em cloud.
 
   → https://github.com/VanessaYuriAB/web_project_api_full
 
@@ -99,8 +92,7 @@ construir aplicações completas:
 
 - 🔹 **Around U.S. API (Express)**  
 
-  Backend com Node.js, Express e MongoDB. API RESTful com regras de negócio, persistência
-  e autenticação (CRUD usuários/cartões).
+  Backend com Node.js, Express e MongoDB. API RESTful com regras de negócio, persistência e autenticação (CRUD usuários/cartões).
 
   → https://github.com/VanessaYuriAB/web_project_around_express
 
@@ -144,7 +136,7 @@ _modular com BEM (Flat), Organização de código, reusabilidade e versionamento
 
 **Ferramentas**: Git/GitHub · VS Code · Bash · Figma · ESLint · Prettier · Husky · lint-staged
 
-**Deploy**: Vercel · Google Cloud (GCP) · Nginx (conceitos e uso)
+**Deploy & Infra**: Vercel · Google Cloud Compute Engine (GCP) · Nginx (conceitos e uso) · SSL (Let's Encrypt) · DNS · Linux/Ubuntu · PM2
 
 #### Atualmente estudando
 
@@ -209,8 +201,7 @@ Cookies HttpOnly · Arquitetura de APIs · Testes automatizados
 ## 🌍 English (short)
 
 Hi! I'm **Vanessa** — a Junior **Full Stack (MERN)** Web Developer.  
-I learned by building real projects end-to-end: semantic HTML/CSS, JavaScript, React
-(Vite), Node/Express, MongoDB, JWT auth, tests, and deployment.
+I learned by building real projects end-to-end: semantic HTML/CSS, JavaScript, React (Vite), Node/Express, MongoDB, JWT auth, tests, and deployment.
 
 📩 emaildavanessayuri@gmail.com
 
@@ -222,5 +213,4 @@ I learned by building real projects end-to-end: semantic HTML/CSS, JavaScript, R
 
 ## 🎯 Objetivo
 
-Construir interfaces responsivas bem estruturadas, acessíveis e escaláveis - unindo design, código 
-e experiência do usuário, conectando front-end e back-end para transformar ideias em produtos reais.
+Construir interfaces responsivas bem estruturadas, acessíveis e escaláveis - unindo design, código e experiência do usuário, conectando front-end e back-end para transformar ideias em produtos reais.
